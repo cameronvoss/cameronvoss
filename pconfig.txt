@@ -11,4 +11,4 @@ session_password=FRC670
 timezone=America/Los_Angeles
 vnc_interactive=yes
 vnc_password=FRC670@VNC
-additional_components=09-x11vnc.xzm uefi.zip 
+additional_components=09-x11vnc.xzm uefi.zip
