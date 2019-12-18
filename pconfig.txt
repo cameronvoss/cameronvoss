@@ -1,1 +1,14 @@
-Test config file
+connection=wired
+dhcp=yes
+browser=chrome
+blacklist=netflix.com hulu.com pandora.com spotify.com
+enable_file_protocol=yes
+homepage=https://www.google.com
+kiosk_config=https://raw.githubusercontent.com/cameronvoss/cameronvoss/master/pconfig.txt
+removable_devices=yes
+right_mouse_click=yes
+session_password=FRC670
+timezone=America/Los_Angeles
+vnc_interactive=yes
+vnc_password=FRC670@VNC
+additional_components=09-x11vnc.xzm uefi.zip 
