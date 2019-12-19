@@ -1,0 +1,5 @@
+// Enable developer tools:
+"DeveloperToolsDisabled": false,
+
+// Disable tracking of the users' physical location:
+"DefaultGeolocationSetting": 2,
