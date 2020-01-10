@@ -1,8 +1,10 @@
-// Enable developer tools:
-"DeveloperToolsDisabled": false,
-
-// Disable tracking of the users' physical location:
-"DefaultGeolocationSetting": 2,
-
-"ExtensionInstallWhitelist": cjpalhdlnbpafiamejdnhcphjbkeiagm,
-"ExtensionInstallForcelist": cjpalhdlnbpafiamejdnhcphjbkeiagm,
+{
+  "DefaultGeolocationSetting" : 1,
+  "VirtualKeyboardEnabled" : 1,
+  "ExtensionInstallWhitelist" : "cjpalhdlnbpafiamejdnhcphjbkeiagm",
+  "ExtensionInstallForcelist" : "cjpalhdlnbpafiamejdnhcphjbkeiagm;https://clients2.google.com/service/update2/crx"
+  "DefaultPopupsSetting" : 2,
+  "DefaultBrowserSettingEnabled" : false,
+  "MetricsReportingEnabled" : false,
+  }
+  
