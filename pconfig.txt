@@ -7,7 +7,6 @@ enable_file_protocol=yes
 homepage=https://accounts.google.com
 session_idle=45
 kiosk_config=https://raw.githubusercontent.com/cameronvoss/cameronvoss/pconfig.txt
-browser_preferences=https://raw.githubusercontent.com/cameronvoss/cameronvoss/master/cconfig.txt
 printer_connection=direct
 printer_model=Canon PIXMA MX410
 disable_private_mode=yes
