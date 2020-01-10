@@ -1,8 +1,8 @@
 {
   "DefaultGeolocationSetting" : 1,
   "VirtualKeyboardEnabled" : 1,
+  "ForceYouTubeRestrict" : 1,
   "ExtensionInstallWhitelist" : "cjpalhdlnbpafiamejdnhcphjbkeiagm",
-  "ExtensionInstallForcelist" : "cjpalhdlnbpafiamejdnhcphjbkeiagm;https://clients2.google.com/service/update2/crx"
   "DefaultPopupsSetting" : 2,
   "DefaultBrowserSettingEnabled" : false,
   "MetricsReportingEnabled" : false,
