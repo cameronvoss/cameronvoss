@@ -1,10 +1,4 @@
 {
   "DefaultGeolocationSetting" : 1,
-  "VirtualKeyboardEnabled" : 1,
-  "ForceYouTubeRestrict" : 1,
-  "ExtensionInstallWhitelist" : "cjpalhdlnbpafiamejdnhcphjbkeiagm",
-  "DefaultPopupsSetting" : 2,
-  "DefaultBrowserSettingEnabled" : false,
-  "MetricsReportingEnabled" : false,
   }
   
