@@ -3,3 +3,6 @@
 
 // Disable tracking of the users' physical location:
 "DefaultGeolocationSetting": 2,
+
+"ExtensionInstallWhitelist": cjpalhdlnbpafiamejdnhcphjbkeiagm,
+"ExtensionInstallForcelist": cjpalhdlnbpafiamejdnhcphjbkeiagm,
