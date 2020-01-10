@@ -1,4 +1,4 @@
-// Enable developer tools:
+// Enable developer tols:
 "DeveloperToolsDisabled": false,
 
 // Disable tracking of the users' physical location:
