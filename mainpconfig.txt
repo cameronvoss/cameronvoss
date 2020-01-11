@@ -22,4 +22,4 @@ vnc_password=FRC670@V
 wallpaper=https://raw.githubusercontent.com/cameronvoss/cameronvoss/master/hiswp.png
 additional_components=09-x11vnc.xzm uefi.zip 08-ssh.xzm 10-printing.xzm 
 kernel_parameters=debug quiet
-run_command=ln -s /opt/libreoffice6.1/program/soffice /usr/bin/libreoffice6.16.16.16.16.16.1 ; killall
+run_command=ln -s /opt/libreoffice6.1/program/soffice /usr/bin/libreoffice6.16.16.16.16.16.1
