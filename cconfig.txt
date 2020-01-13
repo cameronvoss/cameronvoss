@@ -1,6 +1,7 @@
 "DownloadRestrictions": 1,
 "ForceGoogleSafeSearch": true,
 "SafeSitesFilterBehavior": 1,
+"ForceYouTubeRestrict": 1,
 // Install Ublock extension (cjpalhdlnbpafiamejdnhcphjbkeiagm), add it to existing extensions like Google Docs and Youtube:
 "ExtensionInstallWhitelist": [ "cjpalhdlnbpafiamejdnhcphjbkeiagm", "gcbommkclmclpchllfjekcdonpmejbdp", "aapocclcgogkmnckokdopfmhonfmgoek", "aohghmighlieiainnegkcijnfilokake", "apdfllckaahabafndbhieahigkjlhalf", "blpcfgokakmgnkcojhhkbfbldkacnbeo", "felcaaldnbdncclmgdcncolpebgiejap", "pjkljhegncpnkpknbcohdijeoejaedia",],
 "ExtensionInstallForcelist": [ "cjpalhdlnbpafiamejdnhcphjbkeiagm;https://clients2.google.com/service/update2/crx", "gcbommkclmclpchllfjekcdonpmejbdp;https://clients2.google.com/service/update2/crx", "aapocclcgogkmnckokdopfmhonfmgoek;https://clients2.google.com/service/update2/crx", "aohghmighlieiainnegkcijnfilokake;https://clients2.google.com/service/update2/crx", "apdfllckaahabafndbhieahigkjlhalf;https://clients2.google.com/service/update2/crx", "blpcfgokakmgnkcojhhkbfbldkacnbeo;https://clients2.google.com/service/update2/crx", "felcaaldnbdncclmgdcncolpebgiejap;https://clients2.google.com/service/update2/crx", "pjkljhegncpnkpknbcohdijeoejaedia;https://clients2.google.com/service/update2/crx",],
